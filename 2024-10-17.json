@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Boone",
+  "age": 44,
+  "address": {
+    "street": "Latin Trail",
+    "city": "Urevrud",
+    "state": "MN",
+    "zip": "57959"
+  },
+  "contact": {
+    "phone": "(621) 667-8417",
+    "servicePhone": "800511246"
+  },
+  "birthday": "1999-07-05T01:39:09.996Z",
+  "ip": "102.211.181.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiwer feenita jom uline esaza wa ivo av ro hara rif tahobkib. Sojtuwos la wu tejaudi owetevop di kadezlen iw sulvi lum zeha kusulbod. Dav bitelo jakob gihti pazmos ta rotej zu nalah ki ke gu. Rassedsa fu arevuk ala bij ithowku jeivbu nahunoc konivvag pow bog if po wa saciewo solpeni getsidfan.",
+    "bio": "Ro mifhu nuvnamfov lih rilbona sad jojueho miwvor iko pa bur op. Fiplo nuv tefo zojko toghip vejefceb jisduw tu fohibu gumri tadef tinu. Kab jeusicaz eje wi metin epu vima gofmofu haj fo mawca awuldan tosu kakfad. Lec niv bev efaotpu fi aw fes paflo cadode puoruib boj ti."
+  },
+  "apiKey": "59c7a19f5681d51a3f56a33db28b83344eb42f7301ef346d564a0150ea0a167e",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
