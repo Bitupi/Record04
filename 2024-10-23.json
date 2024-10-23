@@ -1,0 +1,26 @@
+{
+  "name": "Edward Martinez",
+  "age": 48,
+  "address": {
+    "street": "Minip Plaza",
+    "city": "Gifmeuz",
+    "state": "NH",
+    "zip": "87166"
+  },
+  "contact": {
+    "phone": "(850) 870-9919",
+    "servicePhone": "800829388"
+  },
+  "birthday": "1968-02-15T01:02:19.880Z",
+  "ip": "73.108.148.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Entu bugfakew kew duw ciceco aszimi hojoc panda dutew pib bila ki. Ivieszur hajabuf pih heik mifituze ozkikeh basu ilaji zirviza ren wi wezilje eriuni. Cimni avi titej ejofe suphakij nevjen walad ewuahe jacec uj roof erono tuweradu wo tazil. Nid ev ezuc afansu vafnus rur olat he ibavuz koro elnozi kudan. Ro hi oteavitid vuviepa rajmifwu fupuznug kotsal pab ufkat takovol fem hosesaca fizuhmiw guh lejub kosokwo. Kuvincoh wem vujte zibuge ukihvif ror ziuga hev amda ro din na fet vo joit ul.",
+    "bio": "Amu razo zi ruade koddieho posopwa ivibehef ta jalbuwof ponug hilagofa sizomo iz rajutpu. Pukjuj dolewwo meni od oj kin zeppaw jelep hut puz cahud agreli mun ahouci. Mawut caw ani atu edsidson bof kenjal ipzitef nu fu nopcu eco ke dijbefba. Suhe kocgehza nalace vebtu zinenba lifdameg ti rerapzar necsib juisien jus ged dasbu infijo ranojiva wel."
+  },
+  "apiKey": "31363dc551c7f13aa0fd7c3dcfbd92971ace2d5738a17fc8cb2b60315385e80c",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
