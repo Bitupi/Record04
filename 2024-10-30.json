@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Carson",
+  "age": 30,
+  "address": {
+    "street": "Kuwdud Road",
+    "city": "Getovus",
+    "state": "DC",
+    "zip": "37619"
+  },
+  "contact": {
+    "phone": "(245) 858-5916",
+    "servicePhone": "800552873"
+  },
+  "birthday": "2003-11-22T11:44:55.427Z",
+  "ip": "93.145.81.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Se pupbu va sobaf feug copaoki mizur ani gofij macwatu tofiv vug hoh koneves fomozal. Piz he hujwekkuv viahaur gupsi hius vuheje jine nibeheez vo kokgo hikgizav katuzke. Na folebzaj va cace cog taduc ik ikeko nucjab guzel elatub mazecmo fisguiro ilu tih fobev iw.",
+    "bio": "Vuzcifi efkeiw do iskuzar sufnuc hutaju uzebe hujef ikijoidi su cume zedijron nephomla ebe. Zolhih tumu zapali ibezisi veebej koga sojil aw cot cewois zanpikuf fiphuc zomodfa duwrim. Fib cofi wim varip ko av mitso etuwe nafihumo gavokapa efpuh evnejo. Fe kucmap aduga guhrucez kewzazoj vav rofgi noro rik vew vo kaf bitagfi wo tiijrer gar oj."
+  },
+  "apiKey": "0e0bd3c75710c149e9713ccc003dec3f2c400c2f2cb39c40f411bf425b5905bf",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
