@@ -1,0 +1,26 @@
+{
+  "name": "Harold Gibbs",
+  "age": 48,
+  "address": {
+    "street": "Gacal Plaza",
+    "city": "Celnukac",
+    "state": "NY",
+    "zip": "12157"
+  },
+  "contact": {
+    "phone": "(209) 223-4757",
+    "servicePhone": "800251216"
+  },
+  "birthday": "1969-12-07T02:22:36.253Z",
+  "ip": "177.21.43.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Ab nazuvi utagi vizujbi ten fogovig ag sulgup los suva vabov vurehfil. Gihu fewic li kezzaz sonkifad hicjofo zad hut re lo ab adenur legoed. Deituanu apvowpap otafa ruhu huc len rine apu ol ci tad gazufo. Rulafipe mik fu vito ma wealve hedekdo nisov ozuvo imite mawenuvus laudeud uwululusu. Pobjen di udi pe buci kimka go cowir daz pi efebaeta rafho wagvuf bemda tom ja oztadhud wocisu.",
+    "bio": "Ferzirras wiheko zu jop ejka ube ucven mimufina se kun wusrub opecithe vevobij etdet abno huselasul. Tapvekuc awu ihewo sior jejac wa idibowfuf jiscepe tudizho lunjo cunugu vuj acu aflemcuw baub hu oname ud. Danji rubeli vielku zit lusokcoj si coad ceucehim opusivosi won dim dakvowev vi. Gonmus jufahe mo lir nejoca erhuf ah jajid cifred ipo poga ret tagveati fumi so. Cuftofom ed seelpez fab eva aswuek pa uvwulis cussecit ene ifasevfo mekrustic vuk amibelec er wesbaefa uskudnos geazu."
+  },
+  "apiKey": "ce0b20e398cb156d2747e897f2221d62691506a3654744afe1151f404f5b9ad6",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
