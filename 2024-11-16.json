@@ -1,0 +1,26 @@
+{
+  "name": "Jose Nguyen",
+  "age": 63,
+  "address": {
+    "street": "Sudkod Court",
+    "city": "Koljola",
+    "state": "ID",
+    "zip": "19768"
+  },
+  "contact": {
+    "phone": "(208) 209-2703",
+    "servicePhone": "800886265"
+  },
+  "birthday": "1991-08-26T12:44:47.425Z",
+  "ip": "156.164.77.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Af lipopop zidisonab wejcok lilufoek he kifir ubhuwez cot imaenoofe dohboj zu co ujogef jecifip. Po dadak epi ogo nug wuwwalbef ajma kosmiribu zez cawgu acacuw ezajesu ut vonanfot bifdo wumi. Wira bu olo rowmi zibhafat sad nu siwezsu ul mebo zeuneebi lahowise vezruege doziv lizipezoj nizah. Pubwo gazu kihko od leso zoezite pir zi ocoevro voipepu eviudkuz tuhag pofi kipje. Ca geb osilij dirwuwozi rumajbeb ovozibtac leogu leenoco va tosdofro rawdud lih wulrocaj gijodo. Haaza fesago wo gad gozi uc keosemat manimdas ruhlihet ecpof winero osijave puctah wooca. Manak wezwezug fingaug eghu zivefof ceiwu ipfe dah ti mojej ili ilma em ecita rokuuf.",
+    "bio": "Lo buam tipafop oj pafumive mizsonkeh awoacope gab zip lu zuzik hu sisvaob co. Saj fic izul kaziwi sim voci waf kamjear alata ko gezjujraz pev rosirze. Tir ferfejkev defodivi tow tepobez jek zu foalri tikmeza zut galhek najsi. Ode jez bah agulukrol loluhno re amu hotnes gike de vofuta izo okeip ni sonmikfo gi deledwep."
+  },
+  "apiKey": "d3daeb5e7286a9bdad02e6194d11791bccfca822b650a69fad64a3a34d16a96e",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
