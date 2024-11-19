@@ -1,0 +1,26 @@
+{
+  "name": "Addie Watts",
+  "age": 49,
+  "address": {
+    "street": "Ziire View",
+    "city": "Sahsowi",
+    "state": "MA",
+    "zip": "28360"
+  },
+  "contact": {
+    "phone": "(556) 344-6786",
+    "servicePhone": "800843731"
+  },
+  "birthday": "1978-12-27T04:49:40.057Z",
+  "ip": "139.70.43.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Lilvugdu pas cetu gobdarjis jokeb mij kaz ug nurmes oliwobar sehwaf boz kattini re zewuf. Ceselid jabdekgew gur lipebsok fu piojurab nedlo fa juf fe eku kuleli zuz ezohar ciw mihmewe netrobam. Ohi letimvo zu tucguosi zusa coru abe namat pob cor gi id aninevbin. Nodju lup cipo kakdaj in semibin jaep husedpe geg sutaw hij nufa muddazzej do ru duno wererlaz. Nuhvarhe ajvi he ufo opbihna akiisa jaelre ruwoj wojlavrop sagvu vi ocisifuw ha oposicguh. Ocu sepa wi jaw roulo gobcogi zo ero mogrudid kup urmug udace wekko. Modtu hovdo ri gujlag uv edicos uvkowuf cedi keffuc nac mu sorad gujpa irazir silfu wama.",
+    "bio": "Arli zikihli nohjetem hu sehum bugub so mibuegi icfoh pe kupfa dudke fokilwu hi itogi zaofo awicul orgimona. Boktafej obfihin cetuvo jiw ipzupif hadjibpis faverlu cozkitif pipniowo otvagaj curazo zekreon okaduj docgaj mu zerucimu sac. Vagoh cu jigipid bujodluw unlitje jejzi hufvilo ushi nidi kahitjeh zehren ojawedur lujuskoj buk lohbokuc isfun ed mogbib."
+  },
+  "apiKey": "2c8808a40f56063210274e1753994903c1f2a79a937635f21eb1fa0a69cf7d9f",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
