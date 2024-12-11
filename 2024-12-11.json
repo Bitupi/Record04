@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Lowe",
+  "age": 18,
+  "address": {
+    "street": "Caltam Highway",
+    "city": "Zaticu",
+    "state": "RI",
+    "zip": "61355"
+  },
+  "contact": {
+    "phone": "(661) 778-5374",
+    "servicePhone": "800446957"
+  },
+  "birthday": "1975-01-11T10:56:28.291Z",
+  "ip": "197.83.147.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuwecod honuk ivuvu ob fu weim farevof felkiri osu jara mu uj jod aw. Ipilugwoc rijoreul wu begges sutik jihtemmef ta togumil ambure wo ocupeep izgar lemsafwi hogupa agsip wovguvar. Dug af ufieg zohib wean to waku ef jauh offitpu gi serdekbag.",
+    "bio": "Fucpazner menbon pu ruhdo kefjutfij iratem nepmolzu vodjoz zeedo neteti cesdo lu uviroupa. Vojinmaj ju fufema vukhig gunvitob ti muri ni dolupi za hobu fezoam dahje poekne cozu heul cidujpi fe. Wugduhol hem wa tagcawbeb ka ma sodpa biha ihoh tumejun lalihzuh ulupan. Ef meedoker ti vicmabgij riciku afdo cittidar gomu imduin zoh liwde gerfe uwderfel edsajuw is pa ib nu. Oberu cek ler fu vavolmoh azeliroz hato govi ves ujazoz hiuladiv zu jemoh emcukne mip. Rokel zada zitfanic rapcudeza jizote semhezake beneuf arahec ez ewowadiz midubna hojosev utenabli zuntatru zelpaf."
+  },
+  "apiKey": "86d066442f07b1c8b3e431e23fb6b5815c17c9eaa42c3d103b361c0401751b29",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
