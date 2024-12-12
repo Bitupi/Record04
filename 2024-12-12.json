@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Taylor",
+  "age": 59,
+  "address": {
+    "street": "Upher Manor",
+    "city": "Okhera",
+    "state": "NM",
+    "zip": "88461"
+  },
+  "contact": {
+    "phone": "(204) 466-8326",
+    "servicePhone": "800511676"
+  },
+  "birthday": "1986-12-04T11:51:28.310Z",
+  "ip": "191.109.222.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Seca uvi zo ekcet nieptes sok bocugap nowipum bibiloja feir uw soncap kij. Ote ravdev bij vaf goacepoh sa wodav geworup bubnuki hov siggifpe te fejameju uzelu. Letratu vuv sifdu emarat foido bok ginci wooha edobucbi nulep gonud emabivro. Teh irejo izowuktas lajobepe lahinaba zaagu voz ohe mu ra opaos pobe le feenoti gaci koh ava. Foz wagujrok wamipge jomjop falci fehuwi ruikegag otun guv zuvbilu sunnuk avo bamaf wopurbe po det mesas ezi.",
+    "bio": "Acreguh leibosa perobnah umade isu bo so sapol vaujano hu efokob ra rondi. Ezazifab pinerlo soflu ecjab bubomwer wokfeuji hela wume foro hi re zijwon zilamebe budiba. Moba niguzveb nobdecroc kog lipih vakucar ukoba na ju ab micrem bagpipi kake vef iffi daum ci deovifig."
+  },
+  "apiKey": "fe61b30649c988207a7c78338ec457c29563235f069733ef40243a12e34de397",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
